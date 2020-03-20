@@ -3,3 +3,6 @@ seaborn
 jupyterlab
 statsmodels
 PyWavelets
+scaleogram
+Keras
+tensorflow 
