@@ -4,7 +4,6 @@ jupyterlab
 statsmodels
 PyWavelets
 scaleogram
-Keras
-tensorflow 
 tqdm
 pandoc==1.0.2
+pmdarima
