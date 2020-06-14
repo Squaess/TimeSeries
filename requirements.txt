@@ -7,3 +7,4 @@ scaleogram
 tqdm
 pandoc==1.0.2
 pmdarima
+fbprophet
